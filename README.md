@@ -14,6 +14,7 @@ Resolución del challenge backend de Alkemy.
 * Iniciar el proyecto desde **IIS Express**
 
 ### Observaciones
+* La API posee datos sembrados para probarla al hacer la migración. Se encuentran en la clase **ApplicationDbContextSeed**.
 * Filtros de búsqueda:
   * Generos: Nombre.
   * Películas: Título, genero (nombre), fecha de estreno (asc, desc).
