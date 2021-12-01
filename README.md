@@ -1,5 +1,5 @@
-# Challenge BackEnd
-Resolución del challenge backEnd de Alkemy.
+# Challenge Backend
+Resolución del challenge backend de Alkemy.
 
 ## Tecnologías
 * ASP.NET Core Web API 5 (C# 9)
