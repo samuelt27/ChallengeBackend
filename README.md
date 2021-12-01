@@ -1,4 +1,4 @@
-# ChallengeBackend
+# Challenge BackEnd
 Resolución del challenge backEnd de Alkemy.
 
 ## Tecnologías
